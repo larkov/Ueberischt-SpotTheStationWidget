@@ -1,3 +1,6 @@
-# Übersicht widget that shows when the ISS passes the next time at a specific location.
+# Spot the station Übersicht Widget
 
 ![Screenshot](screenshot.png)
+
+## Installation
+Change location data in index.coffee
